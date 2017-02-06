@@ -11,13 +11,13 @@
 }
 
 .features h2 {
-  font-family: Raleway, Helvetica, sans-serif;
-  font-size: 20px;
-  line-height: 22px;
+  font-family: $base-font;
+  font-size: $base-size;
+  line-height: $base-height;
 }
 
 .features p {
-  font-family: sans-serif;
-  font-size: 15px;
-  line-height: 21px;
+  font-family: $base-font;
+  font-size: $smaller-size;
+  line-height: $base-height;
 }
