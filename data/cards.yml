@@ -1,15 +1,15 @@
 - city: Lisboa
-  owner: Rodrigo
+  owner: rodrigo
   background: card-lisboa.jpeg
   avatar: rodrigo.jpeg
   description: Charming apartment with a balcony
 - city: London
-  owner: Romain
+  owner: romain
   background: card-london.jpeg
   avatar: romain.jpeg
   description: Nice flat in picadilly
 - city: Brussels
-  owner: Anne
+  owner: anne
   background: card-brussels.jpeg
   avatar: anne.jpg
   description: Lovely House
